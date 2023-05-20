@@ -1,0 +1,1086 @@
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CopyComplete
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\sys info\ProjetBack\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\libman.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\EfCore3.SqlServer2008Query.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Nest.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.xml
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\libman.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\EfCore3.SqlServer2008Query.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Nest.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\libman.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\EfCore3.SqlServer2008Query.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Elasticsearch.Net.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MailKit.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MimeKit.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Nest.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CopyComplete
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.xml
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
+E:\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.AssemblyReference.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\libman.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\EfCore3.SqlServer2008Query.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Nest.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.AssemblyReference.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Pack.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.ProjetBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.ProjetBack.props
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ProjetBack.props
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ProjetBack.props
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CopyComplete
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\Medamine.Benkoussa\Desktop\source\Projets\SysInfo\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\libman.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.exe
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.deps.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.runtimeconfig.dev.json
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Cronos.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\EfCore3.SqlServer2008Query.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NCrontab.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Nest.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.AssemblyReference.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfoInputs.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.AssemblyInfo.cs
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CoreCompileInputs.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Manifest.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\ProjetBack.StaticWebAssets.Pack.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.ProjetBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.ProjetBack.props
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ProjetBack.props
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ProjetBack.props
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.RazorTargetAssemblyInfo.cache
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.csproj.CopyComplete
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.dll
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.pdb
+C:\Users\SP\Desktop\projet\WebServiceSYSINFOMSS\ProjetBack\obj\Release\netcoreapp3.1\ProjetBack.genruntimeconfig.cache
