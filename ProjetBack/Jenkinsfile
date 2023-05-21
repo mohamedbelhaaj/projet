@@ -9,7 +9,7 @@ pipeline {
             
             steps { 
             dir ('projet') {
-                 sh ' sudo docker build -t mssolutionsback . && docker run --name dotnetexample -p 8081:80 -d mssolutionsback'
+                 sh ' ls'
                
                          }
                       
