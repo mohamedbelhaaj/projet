@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SP\\Desktop\\projet\\WebServiceSYSINFOMSS\\ProjetBack\\ProjetBack.csproj": {}
+    "C:\\Users\\SP\\Desktop\\projet_ms_solution\\ProjetBack\\ProjetBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SP\\Desktop\\projet\\WebServiceSYSINFOMSS\\ProjetBack\\ProjetBack.csproj": {
+    "C:\\Users\\SP\\Desktop\\projet_ms_solution\\ProjetBack\\ProjetBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SP\\Desktop\\projet\\WebServiceSYSINFOMSS\\ProjetBack\\ProjetBack.csproj",
+        "projectUniqueName": "C:\\Users\\SP\\Desktop\\projet_ms_solution\\ProjetBack\\ProjetBack.csproj",
         "projectName": "ProjetBack",
-        "projectPath": "C:\\Users\\SP\\Desktop\\projet\\WebServiceSYSINFOMSS\\ProjetBack\\ProjetBack.csproj",
+        "projectPath": "C:\\Users\\SP\\Desktop\\projet_ms_solution\\ProjetBack\\ProjetBack.csproj",
         "packagesPath": "C:\\Users\\SP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SP\\Desktop\\projet\\WebServiceSYSINFOMSS\\ProjetBack\\obj\\",
+        "outputPath": "C:\\Users\\SP\\Desktop\\projet_ms_solution\\ProjetBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
