@@ -363,10 +363,8 @@ C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.Ent
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\SP\Desktop\projet_ms_solution\ProjetBack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll

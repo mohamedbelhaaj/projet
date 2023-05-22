@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-
+using System.Threading.Tasks; 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DAL.Models;
@@ -1265,7 +1264,7 @@ namespace ProjetBack.Controllers
         public async Task<string> DecryptPassword(string mail)
         {
           
-           var user = await _context.Users.SingleOrDefaultAsync(e=>e.AdresseEmail.Equals(mail));
+            var user = await _context.Users.Where(e=>e.AdresseEmail.Equals(mail)).FirstOrDefaultAsync();
             if(user==null)
             {
                 return "not found";
