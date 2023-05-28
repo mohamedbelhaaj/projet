@@ -1,0 +1,26 @@
+pipeline {
+
+    agent { node { label 'prod' } }
+    
+    stages {
+
+
+        stage('Build image Ms Note') {
+            
+            steps { 
+            dir ('ProjetBack') {
+                 sh ' sudo docker build -t mssolutionsback . && sudo docker run --name dotnetexample -p 8081:80 -d mssolutionsback'
+               
+                         }
+                      
+
+			   
+     
+            }
+        }
+}
+
+
+   
+   
+}

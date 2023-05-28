@@ -98,7 +98,7 @@ namespace ProjetBack.Controllers
             {
                 return BadRequest(ex);
             }
-        }
+            }
 
         //public Boolean ChangeTTMProjetLivraison()
         //{
